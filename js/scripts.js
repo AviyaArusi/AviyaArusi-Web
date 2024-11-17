@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function () {
         //     languages: ['Javascript', 'React' , 'Flask' , 'Render']
         // },
         {
-            imgSrc: "/assets/img/2better.png",
+            imgSrc: "assets/img/2better.png",
             title: "2Better App",
             description: "An innovative Android app for enhanced productivity and well-being, featuring task organization, habit tracking, and motivation in a user-friendly interface.",
             githubLink: "https://github.com/Ashwal200/2Better",
@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", function () {
         //     languages: ['Python' , 'Flask']
         // },
         {
-            imgSrc: "/assets/img/protocol.png",
+            imgSrc: "assets/img/protocol.png",
             title: "Network Protocols Exploration",
             description: "Implement and explore DNS, DHCP, HTTP, and redirect servers to demonstrate their crucial roles in internet communication.",
             githubLink: "https://github.com/Ashwal200/Network-Protocols-Exploration/tree/main",
