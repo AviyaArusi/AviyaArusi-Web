@@ -37,7 +37,7 @@ window.addEventListener('DOMContentLoaded', event => {
 document.addEventListener("DOMContentLoaded", function () {
     const projects = [
         {
-            imgSrc: "assets/img/atom2.png",
+            imgSrc: "assets/img/atom.png",
             title: "Sharp Frame Selector for Orthophoto Creation",
             description: "This Python application designed to select the sharpest frames from a video.",
             githubLink: "https://github.com/AviyaArusi/ATOM-HA",
