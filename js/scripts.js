@@ -36,13 +36,13 @@ window.addEventListener('DOMContentLoaded', event => {
 
 document.addEventListener("DOMContentLoaded", function () {
     const projects = [
-        // {
-        //     imgSrc: "/assets/img/Webapp.png",
-        //     title: "Real-time Code Collaboration",
-        //     description: "This React application enables real-time code collaboration between clients using sockets for communication.",
-        //     githubLink: "https://github.com/Ashwal200/Web-App",
-        //     languages: ['Javascript', 'React' , 'Flask' , 'Render']
-        // },
+        {
+            imgSrc: "assets/img/atom2.png",
+            title: "Sharp Frame Selector for Orthophoto Creation",
+            description: "This Python application designed to select the sharpest frames from a video.",
+            githubLink: "https://github.com/AviyaArusi/ATOM-HA",
+            languages: ['Python', 'Flask']
+        },
         {
             imgSrc: "assets/img/2better.png",
             title: "2Better App",
@@ -50,13 +50,13 @@ document.addEventListener("DOMContentLoaded", function () {
             githubLink: "https://github.com/Ashwal200/2Better",
             languages: ['Javascript', 'React' , 'Firebase' , 'Expo']
         },
-        // {
-        //     imgSrc: "/assets/img/cluster.png",
-        //     title: "NLP Sentence Grouping",
-        //     description: "This project utilizes NLP techniques such as K-means, Word2Vec, LDA, and TransformSentence to cluster claim sentences from URLs, providing categorized titles for efficient data organization.",
-        //     githubLink: "https://github.com/Ashwal200/Clustering-Sentences",
-        //     languages: ['Python' , 'Flask']
-        // },
+        {
+            imgSrc: "assets/img/faceRecognition.png",
+            title: "Selfie Face Recognition",
+            description: "This project  identify photos containing a specific person's face from a directory of images.",
+            githubLink: "https://github.com/AviyaArusi/Selfie_face_recognition",
+            languages: ['Python']
+        },
         {
             imgSrc: "assets/img/protocol.png",
             title: "Network Protocols Exploration",
