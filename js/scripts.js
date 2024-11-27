@@ -64,6 +64,13 @@ document.addEventListener("DOMContentLoaded", function () {
             githubLink: "https://github.com/Ashwal200/Network-Protocols-Exploration/tree/main",
             languages: ['C']
         },
+        {
+            imgSrc: "assets/img/arduino.png",
+            title: "Laser-Activated Cat Deterrent System",
+            description: "This project uses a laser distance sensor and a sprinkler system to detect movement (e.g., from a cat) and activate the sprinkler for 5 seconds. It provides a humane and non-harmful method to discourage cats from entering specific areas.",
+            githubLink: "https://github.com/AviyaArusi/Arduino_Cat_Sprinkler",
+            languages: ['C']
+        },
     ];
 
     const projectsContainer = document.getElementById("projects");
